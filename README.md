@@ -8,7 +8,8 @@ A simple web application to track income, expenses, and maintain a balance.
 - Responsive Design: Ensures the application works seamlessly across various devices.
 
 ## Live Demo
-You can access the live demo here.
+You can access the live demo here:
+### https://parth-expense-tracker.netlify.app/
 
 ## Technologies Used
 - HTML
